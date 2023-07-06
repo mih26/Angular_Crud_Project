@@ -1,0 +1,7 @@
+A Client Site Web Application with Angular and MVC Core use for Server project of Candidate and their qualification in Master Details Crud with Create, Insert, Edit and Delete information.
+
+The following technologies are used:
+ Database: MS-SQL Server 2019
+ Framework: ASP Dot Net MVC core, Web API
+ Language: C#.net
+ Frontend: Angular, TypeScript
