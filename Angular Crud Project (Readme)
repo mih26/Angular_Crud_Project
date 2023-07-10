@@ -2,6 +2,6 @@ A Client Site Web Application with Angular and MVC Core use for Server project o
 
 The following technologies are used:
  Database: MS-SQL Server 2019
- Framework: ASP Dot Net MVC core, Web API
+ Framework: ASP Dot Net MVC core, Web API 
  Language: C#.net
  Frontend: Angular, TypeScript
